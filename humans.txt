@@ -1,0 +1,16 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Raeygan Bollaert -- UI Designer and Developer -- @rrraeygan
+
+# THANKS
+
+    Jen Simmons (CSS Grid)
+    CSS Tricks (Flexbox)
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5
+    jQuery, Modernizr, Normalize.css
